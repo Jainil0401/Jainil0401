@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C2340,100:2B4A6F&height=220&section=header&text=Jainil%20Patel&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=IT%20Support%20%7C%20Desktop%20Support%20%7C%20Help%20Desk&descAlignY=60&descSize=22" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C2340,100:2B4A6F&height=220&section=header&text=Jainil%20Patel&fontSize=70&fontColor=ffffff&fontAlignY=35" />
 
 </div>
 
@@ -11,7 +11,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2B4A6F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jainil+Patel;IT+Support+%7C+Desktop+Support+%7C+Help+Desk;Troubleshooting+%7C+Automation+%7C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2B4A6F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jainil+Patel;IT+Support+%7C+Desktop+Support+%7C+Help+Desk;Troubleshooting+%7C+Automation" alt="Typing SVG" />
 
 <br><br>
 
