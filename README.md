@@ -11,7 +11,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2B4A6F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jainil+Patel;IT+Support+%7C+Desktop+Support+%7C+Help+Desk;Troubleshooting+%7C+Automation+%7C+System+Reliability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2B4A6F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jainil+Patel;IT+Support+%7C+Desktop+Support+%7C+Help+Desk;Troubleshooting+%7C+Automation+%7C" alt="Typing SVG" />
 
 <br><br>
 
