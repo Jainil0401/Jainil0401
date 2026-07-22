@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C2340,100:2B4A6F&height=220&section=header&text=Jainil%20Patel&fontSize=70&fontColor=ffffff&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C2340,100:2B4A6F&height=220&section=header&text=Jainil%20Patel&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=IT%20Support%20%7C%20Desktop%20Support%20%7C%20Help%20Desk&descAlignY=60&descSize=22" />
 
 </div>
 
