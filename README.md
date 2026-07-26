@@ -183,7 +183,7 @@ Aug 2021 – May 2024 | Gujarat, India
 
 # 🏅 Certifications
 
-![Google IT Support]([https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=flat-square&logo=google&logoColor=white](https://www.coursera.org/account/accomplishments/professional-cert/C9MWYALVTO9Q))
+![Google IT Support]([[https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=flat-square&logo=google&logoColor=white](https://www.coursera.org/account/accomplishments/professional-cert/C9MWYALVTO9Q)](https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=flat-square&logo=google&logoColor=white))
 
 ![Unix Essential Training](https://img.shields.io/badge/Unix%20Essential%20Training-000000?style=flat-square&logo=linux&logoColor=white)
 
