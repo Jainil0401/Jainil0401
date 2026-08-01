@@ -124,7 +124,7 @@ class JainilPatel:
 ## 🔧 Automated IT Troubleshooting Toolkit  
 **Python | PowerShell | Windows APIs**
 
-[GitHub Repository](https://github.com/YOUR-GITHUB)
+[GitHub Repository](https://github.com/Jainil0401/automated-it-troubleshooting-toolkit)
 
 - Developed an automated diagnostics toolkit for Windows environments
 - Automated 10+ troubleshooting checks including:
@@ -158,7 +158,7 @@ class JainilPatel:
 ## 🖥️ Distributed File System  
 **C | UNIX | Socket Programming**
 
-[GitHub Repository](https://github.com/YOUR-GITHUB)
+[GitHub Repository](https://github.com/Jainil0401/File-Distributed-System)
 
 - Developed a client-server file management system
 - Implemented UNIX socket communication between components
@@ -193,7 +193,7 @@ Aug 2021 – May 2024 | Gujarat, India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jainil0401&show_icons=true&theme=transparent" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=transparent" />
 
@@ -205,7 +205,7 @@ Aug 2021 – May 2024 | Gujarat, India
 
 <h3><b>Let's Connect 🚀</b></h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainil-h-patel/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel35c@uwindsor.ca)
 
