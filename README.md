@@ -53,7 +53,4 @@ Client-server file management system built for coursework.
 - Bachelor of Computer Engineering, Gujarat Technological University (2021 to 2024)
 - Google IT Support Professional Certificate; Unix Essentials; Selenium Testing; Hadoop Fundamentals
 
-## Previous Experience
 
-**IT Technician Intern, Ipcowala Institute of Engineering and Technology** (Jan to Dec 2024)
-First-level technical support, hardware, software and LAN troubleshooting, and documentation.
